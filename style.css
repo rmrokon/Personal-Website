@@ -56,34 +56,34 @@ body{
     font-family: "Roboto", monospace;
 }
 #mission{
-    background-color: rgb(141, 212, 190);
+    background-color: rgb(243, 199, 199);
     border-radius: 10px;
 }
 #vision{
-    background-color: rgb(216, 179, 133);
+    background-color: rgb(226, 243, 228);
     border-radius: 10px;
 }
 #goals{
-    background-color: rgb(226, 160, 134);
+    background-color: rgb(241, 209, 241);
     border-radius: 10px;
 }
 .small-image-properties{
     width: 40%;
 }
 .tri-divs-area p{
-    font-family: monospace;
+    font-family: 'Lora', serif;
     font-size: 12px;
 }
-.div-align{
+#div-align{
     width: 80%;
     margin-top: 60px;
 }
-.div-align p{
+#div-align p{
     padding-right: 200px;
 }
-.div-align h1{
+#div-align h1{
     font-family: Helvetica, sans-serif;
-    font-size: 48px;
+    font-size: 40px;
     margin-right: 380px;
 }
 #developer-limit{
@@ -92,4 +92,16 @@ body{
     background-size: 10%;
     background-position-y: 25%;
     background-position-x: 1%;
+}
+#developer-com h1{
+    font-family: Helvetica, sans-serif;
+    font-size: 40px;
+    margin-right: 25px;
+}
+#developer-com{
+    background-image: url(Images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-size: 20%;
+    background-position-y: 95%;
+    background-position-x: 95%;
 }
