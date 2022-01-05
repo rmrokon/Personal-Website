@@ -1,0 +1,38 @@
+body{
+    color: black;
+    margin: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.tag-line{
+    font-size: 65px;
+    border-left: 5px solid orangered;
+    padding-left: 10px; 
+    font-family: 'Roboto', sans-serif;
+}
+.tag-line span{
+    color: coral;
+}
+.organize-divs{
+    display: flex;
+}
+.divs-width{
+    width: 50%;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+.image-properties{
+    width: 80%;
+    margin-top: 40px;
+}
+.button-style{
+    text-decoration: none;
+    background-image: linear-gradient(coral, orangered);
+    color: white;
+    padding: 5px 10px;
+    border-radius: 5px;
+}
+.paragraphs-style{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 18px;
+    color: rgb(102, 92, 92);
+}
