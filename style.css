@@ -8,6 +8,7 @@ body{
     border-left: 5px solid orangered;
     padding-left: 10px; 
     font-family: 'Roboto', sans-serif;
+    font-weight: 700px;
 }
 .span-color{
     color: coral;
@@ -104,4 +105,22 @@ body{
     background-size: 20%;
     background-position-y: 95%;
     background-position-x: 95%;
+}
+
+#footer{
+    text-align: center;
+    padding-bottom: 40px;
+    padding-top: 20px;
+    background-color: black;
+    margin-top: 100px;
+}
+#footer h2{
+    font-family: 'Lobster', cursive;
+    color: white;
+}
+#footer small{
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 8px;
+    font-weight: 1px;
 }
