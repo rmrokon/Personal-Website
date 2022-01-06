@@ -79,6 +79,13 @@ body{
 #div-align{
     width: 80%;
     margin-top: 60px;
+    background-image: url(/Images/BG-Images/5.png);
+    background-repeat: no-repeat;
+    background-size: 40%;
+    background-position: left;
+    background-position-y: -20px;
+    background-position-x: 170px;
+
 }
 #div-align p{
     padding-right: 200px;
@@ -108,6 +115,13 @@ body{
     background-position-x: 95%;
 }
 
+#dev-com-div{
+    background-image: url(/Images/community.png);
+    background-position: right;
+    background-repeat: no-repeat;
+    background-size: 25%;
+    background-position-y: -10px;
+}
 #footer{
     text-align: center;
     padding-bottom: 40px;
@@ -130,6 +144,11 @@ body{
     border-bottom: 5px solid orangered;
     border-radius: 10px;
     margin: 150px 25px 25px 25px;
+    background-image: url(/Images/BG-Images/7.png);
+    background-repeat: no-repeat;
+    background-size: 50%;
+    background-position: bottom;
+    background-position-x: 300px;
 }
 #form{
     padding-top: 30px;
@@ -161,5 +180,13 @@ body{
     font-family: Helvetica, sans-serif;
     font-size: 40px;
 }
+#first-sec-bg{
+    background-image: url(/Images/BG-Images/4.png);
+    background-repeat: no-repeat;
+    background-position-x: 350px;
+    background-position-y: 229px;
+    background-size: 25%;
+}
+
 
 
